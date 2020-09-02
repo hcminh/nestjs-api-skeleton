@@ -1,1 +1,1 @@
-skeleton# nestjs-api-skeleton
+# nestjs-api-skeleton
