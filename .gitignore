@@ -19,11 +19,6 @@ node_modules/
 # Optional npm cache directory
 .npm
 
-# Optional eslint
-.eslintcache
-*.editorconfig
-*.eslintrc.js
-
 # Yarn Integrity file
 .yarn-integrity
 
